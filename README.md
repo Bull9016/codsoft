@@ -5,4 +5,6 @@ we further used libraries like pandas,seaborn, matplotlib to evaluate and  prese
 
 Data-set link(https://www.kaggle.com/datasets/yasserh/titanic-dataset/data)
 
-codsoft has given mme the intership oppourtuny to test my python,and analytical skills
+i further recommend everyone to download data from the link above and perform analysis
+
+codsoft has given mme the intership oppourtuny to test my python and analytical skills
